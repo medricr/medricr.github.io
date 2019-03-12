@@ -4,4 +4,5 @@ h1 {
     color: salmon;
     height: 20%;
     width: 100%;
+    overflow: auto;
 }
